@@ -14,3 +14,4 @@ EleXclusive adalah platform yang dibuat khusus untuk orang yang ingin membangun 
    * Role  : UI-UX Designer
 * [link Proposal](https://www.canva.com/design/DAGFLKBxbnM/lew2jECireRxBh4ZZEjJow/edit?utm_content=DAGFLKBxbnM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * [link Laporan](https://docs.google.com/document/d/1X3A2dVwMILA1u_31vvNIeTzb9H9cPVVi/edit?usp=sharing&ouid=117422767632211945722&rtpof=true&sd=true)
+* [Link Product](https://github.com/Mokyra18/Elexlusif-app.git)
